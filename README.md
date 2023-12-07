@@ -15,6 +15,12 @@ Counter & styling:
 
 https://stackoverflow.com/questions/72839756/react-how-to-make-buttons-to-increment-and-decrement-a-counter
 
+# Deploy
+
+Netlify: [https://lucky-gelato-762b47.netlify.app/]
+
+Vercel: [https://265-ach2-sample-app.vercel.app/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
