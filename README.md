@@ -11,9 +11,9 @@ React State hooks:
 
 https://legacy.reactjs.org/docs/hooks-state.html
 
-Counter & styling:
-
 https://legacy.reactjs.org/community/examples.html
+
+Counter & styling:
 
 https://stackoverflow.com/questions/72839756/react-how-to-make-buttons-to-increment-and-decrement-a-counter
 
