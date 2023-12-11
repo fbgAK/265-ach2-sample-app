@@ -1,6 +1,10 @@
 # Author:
 Akash Samra
 
+# Deploy - Custom Domain
+
+Netlify: [https://akashreactsampleapp.netlify.app/]
+
 # Attributes: 
 
 Trickiest React problem for Fresher and SDE1 | Increment Counter:
@@ -17,10 +21,6 @@ https://legacy.reactjs.org/community/examples.html
 Counter & styling:
 
 https://stackoverflow.com/questions/72839756/react-how-to-make-buttons-to-increment-and-decrement-a-counter
-
-# Deploy - Custom Domain
-
-Netlify: [https://akashreactsampleapp.netlify.app/]
 
 # Getting Started with Create React App
 
